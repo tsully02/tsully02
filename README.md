@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm Trevor Sullivan, and I'm a recent CS grad from Tufts University.
 
-🔭 I'm currently working on Project HAL (here's our work-in-progress [documentation (project-hybrot.github.io)])
+🔭 I'm currently working on Project HAL (here's our work-in-progress [documentation](project-hybrot.github.io))
 
 Some other projects I've worked on:
-  - [The Iris Language (https://github.com/The-Iris-Language/Iris)]
-  - [Tuftris (https://github.com/tsully02/Tuftris)]
+  - [The Iris Language](https://github.com/The-Iris-Language/Iris)
+  - [Tuftris](https://github.com/tsully02/Tuftris)
 
 📫 email: tmsully2020@gmail.com
 
