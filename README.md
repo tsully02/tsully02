@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **tsully02/tsully02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Trevor Sullivan, and I'm a recent CS grad from Tufts University.
+Hi, I'm Trevor!
 
-🔭 I'm currently working on Project HAL (here's our work-in-progress [documentation](project-hybrot.github.io))
-
-Some other projects I've worked on:
+<!--
+I'm currently working on Project HAL (here's our work-in-progress [documentation](project-hybrot.github.io))
+-->
+Some projects I've worked on:
   - [The Iris Language](https://github.com/The-Iris-Language/Iris)
   - [Tuftris](https://github.com/tsully02/Tuftris)
 
