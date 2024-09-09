@@ -24,6 +24,6 @@ Some projects I've worked on:
   - [The Iris Language](https://github.com/The-Iris-Language/Iris)
   - [Tuftris](https://github.com/tsully02/Tuftris)
 
-📫 email: tmsully2020@gmail.com
+📫: tmsully2020@gmail.com
 
 
