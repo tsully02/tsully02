@@ -20,7 +20,7 @@ Hi, I'm Trevor!
 <!--
 I'm currently working on Project HAL (here's our work-in-progress [documentation](project-hybrot.github.io))
 -->
-Some projects I've worked on:
+Here are some projects I've worked on:
   - [The Iris Language](https://github.com/The-Iris-Language/Iris)
   - [Tuftris](https://github.com/tsully02/Tuftris)
 
