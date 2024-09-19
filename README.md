@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Trevor!
 
-<!--
-I'm currently working on Project HAL (here's our work-in-progress [documentation](project-hybrot.github.io))
--->
+I'm currently working on Project HAL at the Tufts Levin Lab (here's the work-in-progress [documentation](project-hybrot.github.io))
+
 Here are some projects I've worked on:
   - [The Iris Language](https://github.com/The-Iris-Language/Iris)
   - [Tuftris](https://github.com/tsully02/Tuftris)
