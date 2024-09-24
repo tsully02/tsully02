@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Trevor!
 
-I'm currently working at the Tufts Levin Lab on Project HAL (Holistic Agential Learning), a software for creating and running closed-loop experiment on MaxWell Biosystem's MaxOne and MaxTwo. Here's the work-in-progress [documentation](project-hal.github.io).
+I'm currently working at the Tufts Levin Lab on Project HAL (Holistic Agential Learning), a software for creating and running closed-loop experiment on MaxWell Biosystem's MaxOne and MaxTwo. Here's the work-in-progress [documentation](https://project-hal.github.io/).
 
 Here are some other projects I've worked on:
   - [The Iris Language](https://github.com/The-Iris-Language/Iris)
